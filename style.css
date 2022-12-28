@@ -642,6 +642,9 @@ body{
         width: 73%;
         padding: 10px 50px;
     }
+    .con-head h4::before {
+        top: 34%;
+    }
     .abt-sec{
         width: 100%;
     }
