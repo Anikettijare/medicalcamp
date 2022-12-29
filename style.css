@@ -720,6 +720,12 @@ body{
     .consult-info {
         padding: 20px;
     }
+    .appt-form input[type=text] {
+        width: 93%;
+    }
+    .appt-form{
+        padding-bottom: 50px;
+    }
     .footer{
         display: block;
         margin-left: 50px;
